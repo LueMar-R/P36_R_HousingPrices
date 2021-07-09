@@ -17,3 +17,7 @@ Nous avons nettoyé ces données et réalisé des prédictions de deux façons :
 Les résultats sont visibles dans le notebook et le PDF.
 
 Nous avons ensuite réalisé une petite interface graphique à l'aide du module Shiny de R.
+
+## Colab et ngrok
+
+Le code peut être intégralement lancé sur le notebook Colab grace au package ngrok qui permet d'de creer un tunnel ver le localhost Colab, et donc d'exposer l'appli Shiny sur une url publique du type http://5468..4788.ngrock.io.
