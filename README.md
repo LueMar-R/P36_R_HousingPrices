@@ -20,4 +20,4 @@ Nous avons ensuite réalisé une petite interface graphique à l'aide du module 
 
 ## Colab et ngrok
 
-Le code peut être intégralement lancé sur le notebook Colab grace au package ngrok qui permet d'de creer un tunnel ver le localhost Colab, et donc d'exposer l'appli Shiny sur une url publique du type http://5468..4788.ngrock.io.
+Le code peut être intégralement lancé sur le notebook Colab grace au package ngrok qui permet de créer un tunnel vers le localhost Colab, et donc d'exposer l'appli Shiny sur une url publique du type http://5468..4788.ngrock.io.
